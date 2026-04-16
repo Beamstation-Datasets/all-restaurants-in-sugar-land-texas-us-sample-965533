@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Sugar Land, Texas with a population of over 111k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Sugar Land, Texas, US",
+  "export_job_id": "b15186e5-0d03-41cb-be33-fcc7028dfb23",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 965533,
+  "location_name": "Sugar Land",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-sugar-land-texas-us-sample-965533",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/965533/beamstation_965533_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 42,
+  "sample_sha256": "753d758927323504b6b05be2dc8c9ee242e7d40f423a7d4a2a9c72c32099c378",
+  "sample_size_bytes": 172361,
+  "total_records": 425,
+  "updated_at": "2026-04-09T09:57:44.915834+00:00"
+}
