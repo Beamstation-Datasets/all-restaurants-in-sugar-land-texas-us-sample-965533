@@ -1,12 +1,12 @@
 {
-  "export_job_id": "782f73c2-d031-4d52-b43b-6a55bd697534",
+  "export_job_id": "e956a4f2-0506-4ace-b00f-2916e700b6ff",
   "id_short": 965533,
-  "published_at": "2026-04-23T19:05:58Z",
+  "published_at": "2026-04-30T19:20:50Z",
   "repo_name": "all-restaurants-in-sugar-land-texas-us-sample-965533",
   "sample_asset_name": "beamstation_965533_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/965533/beamstation_965533_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "3b46aa6f04e427cc4372d54b7c4262292bee7360459e3bed1776f5c809ce93e6",
-  "sample_size_bytes": 127984,
-  "total_records": 321
+  "sample_records": 44,
+  "sample_sha256": "216085c7a428c7ab5c4bb3169ac73d70438294256636a1465bcec3b2a44413f7",
+  "sample_size_bytes": 173024,
+  "total_records": 442
 }
